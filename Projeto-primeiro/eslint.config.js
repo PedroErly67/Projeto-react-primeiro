@@ -20,4 +20,4 @@ export default defineConfig([
   },
 ])
 
-pedro erly gay 2.0
+2.0
